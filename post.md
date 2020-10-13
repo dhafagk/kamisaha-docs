@@ -73,6 +73,14 @@ Keterangan :
 
 `[d q="720p" u="88mb"] [link s="Zippyshare" l="https://www5.zippyshare.com/v/ZY89xHBg/file.html"] [/d]`
 
+Multiple link : 
+
+`[d q="720p" u="88mb"]
+[link s="Zippyshare" l="https://www5.zippyshare.com/v/ZY89xHBg/file.html"]
+[link s="Racaty" l="racaty.com"]
+[link s="Google Drive" l="drive.com"]
+[/d]`
+
 ##### 4. Batch
 
 Batch juga sama shortcode nya seperti Download Box di atas.
