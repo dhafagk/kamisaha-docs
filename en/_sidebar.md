@@ -5,18 +5,14 @@
 
 - Configuration - MUST
 
-  - [Quick Start](customization.md)
+  - [Quick Start](configuration.md)
   - [Install Plugin](plugin-essential.md)
   - [Static Page](static-page.md)
   - [Settings](settings.md)
 
-<!-- - Theme Setting
+- Theme Customization
 
-  - [Quick Start](settings-page.md)
-  - [General](general.md)
-  - [Homepage](plugin-essential.md)
-  - [Ads](static-page.md)
-  - [Jadwal Rilis](settings.md) -->
+  - [Quick Start](customization.md)
 
 - How To
 

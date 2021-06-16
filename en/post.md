@@ -47,7 +47,7 @@ However, if the Total Episode is also empty (*if it's empty it's usually an ongo
 
 ##### 3. Episode Anime
 
-![Cour](../image/1F.png)
+![Cour](../image/anime.png)
 
 Explanation :
 
@@ -59,28 +59,14 @@ Explanation :
 
 **Resolution** : It's up to you.
 
-**Mirror Stream** : Fill with shortcode
+**Mirror Stream** : Fill the name field with Player Name, and URL field with embedded URL video. You can also press Add mirror button to add more mirror
 
-`[mirror name="(Mirror name)" link="(link mirror)"]`
+**Download Box** : The resolution one is actually you can fill it with anything, it doesn't have to be 1080p, you can fill it with like HD or SD
 
-`[mirror name="KamiDrive" link="https://google.com"]`
-
-**Download Box** : Fill with shortcode
-
-`[d q="(resolutsion)" u="(size)"] [link s="(link name)" l="(link)"] [/d]`
-
-`[d q="480p" u="45mb"] [link s="Zippyshare" l="https://www5.zippyshare.com/v/tVAIn8dS/file.html"] [/d]`
-
-`[d q="720p" u="88mb"] [link s="Zippyshare" l="https://www5.zippyshare.com/v/ZY89xHBg/file.html"] [/d]`
-
-Multiple link : 
-
-`[d q="720p" u="88mb"]
-[link s="Zippyshare" l="https://www5.zippyshare.com/v/ZY89xHBg/file.html"]
-[link s="Racaty" l="racaty.com"]
-[link s="Google Drive" l="drive.com"]
-[/d]`
+**IS this the end?** : The checkbox if the particular episode on particular anime is the last episode
 
 ##### 4. Batch
 
-Fill with shortcode same as like Download box.
+It's the same like Download box.
+
+![Batch](../image/batch.png)
